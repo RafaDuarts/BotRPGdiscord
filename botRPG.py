@@ -551,4 +551,4 @@ async def maos(ctx, quantidade):
   await ctx.send(f'\n>Total Dano = {aux}')
 
 
-client.run('')
+client.run('') # Colocar o token do bot do discord entre as aspas.
