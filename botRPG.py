@@ -551,4 +551,4 @@ async def maos(ctx, quantidade):
   await ctx.send(f'\n>Total Dano = {aux}')
 
 
-client.run('ODQ4NjkzNTE4MDE2NDQ2NDY0.YLQVbg.c_kdnQIaKP7yzjRz9En9uX4qdZE')
+client.run('')
